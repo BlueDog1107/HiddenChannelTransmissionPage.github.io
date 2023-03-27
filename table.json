@@ -1,40 +1,101 @@
 {
     "list": [{
-            "id": 1,
             "name": "张三",
-            "money": 123,
-            "address": "广东省东莞市长安镇",
-            "state": "成功",
-            "date": "2019-11-1",
-            "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+            "filename": "xxx文件",
+            "filetype": "txt",
+            "state": "未下载",
+            "date": "2023-1-1"
         },
         {
-            "id": 2,
             "name": "李四",
-            "money": 456,
-            "address": "广东省广州市白云区",
-            "state": "成功",
-            "date": "2019-10-11",
-            "thumb": "https://lin-xin.gitee.io/images/post/node3.png"
+            "filename": "xxx文件",
+            "filetype": "txt",
+            "state": "未下载",
+            "date": "2023-1-23"
         },
         {
-            "id": 3,
-            "name": "王五",
-            "money": 789,
-            "address": "湖南省长沙市",
-            "state": "失败",
-            "date": "2019-11-11",
-            "thumb": "https://lin-xin.gitee.io/images/post/parcel.png"
+            "name": "王二",
+            "filename": "xxx文件",
+            "filetype": "txt",
+            "state": "已下载",
+            "date": "2023-2-1"
         },
         {
-            "id": 4,
-            "name": "赵六",
-            "money": 1011,
-            "address": "福建省厦门市鼓浪屿",
-            "state": "成功",
-            "date": "2019-10-20",
-            "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+            "name": "张麻子",
+            "filename": "xxx音乐",
+            "filetype": "mp4",
+            "state": "未下载",
+            "date": "2023-2-12"
+        },
+        {
+            "name": "老六",
+            "filename": "xxx图片",
+            "filetype": "jpg",
+            "state": "未下载",
+            "date": "2022-11-23"
+        },
+        {
+            "name": "小明",
+            "filename": "xxx文件",
+            "filetype": "txt",
+            "state": "未下载",
+            "date": "2023-1-28"
+        },
+        {
+            "name": "小张",
+            "filename": "xxx音乐",
+            "filetype": "mp4",
+            "state": "未下载",
+            "date": "2023-1-12"
+        },
+        {
+            "name": "小强",
+            "filename": "xxx文件",
+            "filetype": "txt",
+            "state": "未下载",
+            "date": "2022-12-23"
+        },
+        {
+            "name": "二王",
+            "filename": "xxx文件",
+            "filetype": "txt",
+            "state": "已下载",
+            "date": "2022-12-1"
+        },
+        {
+            "name": "张麻子",
+            "filename": "xxx音乐",
+            "filetype": "mp4",
+            "state": "未下载",
+            "date": "2023-2-12"
+        },
+        {
+            "name": "张麻子",
+            "filename": "xxx音乐",
+            "filetype": "mp4",
+            "state": "未下载",
+            "date": "2023-2-12"
+        },
+        {
+            "name": "张麻子",
+            "filename": "xxx音乐",
+            "filetype": "mp4",
+            "state": "未下载",
+            "date": "2023-2-12"
+        },
+        {
+            "name": "张麻子",
+            "filename": "xxx音乐",
+            "filetype": "mp4",
+            "state": "未下载",
+            "date": "2023-2-12"
+        },
+        {
+            "name": "张麻子",
+            "filename": "xxx音乐",
+            "filetype": "mp4",
+            "state": "未下载",
+            "date": "2023-2-12"
         }
-    ],
-    "pageTotal": 4
+    ]
 }
